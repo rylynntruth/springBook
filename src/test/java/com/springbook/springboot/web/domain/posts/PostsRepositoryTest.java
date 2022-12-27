@@ -2,7 +2,6 @@ package com.springbook.springboot.web.domain.posts;
 
 import com.springbook.springboot.domain.posts.Posts;
 import com.springbook.springboot.domain.posts.PostsRepository;
-import jdk.vm.ci.meta.Local;
 import org.assertj.core.api.Assertions;
 import org.junit.After;
 import org.junit.Test;
